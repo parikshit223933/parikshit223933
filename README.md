@@ -35,7 +35,7 @@ I am:
 - Databases/ODM: - **MySQL, MongoDB and Mongoose, Firebase**
 - Tools: - **VS Code, Linux, Git, Github, Chrome Developer Tools, Babel and AWS**
 
-### Github Readme Stats ###
+### Stats ###
 ----------------------------------------------------------------------------------------------------------------------------
 <a href="https://profile-summary-for-github.com/user/parikshit223933">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=parikshit223933&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Parikshit's GitHub stats"/>
