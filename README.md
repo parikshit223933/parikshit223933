@@ -1,5 +1,9 @@
+Hi there,
+**Portfolio**: www.devifier.com <br/>
+**If the above link does not work** https://d2ntv3jcj6qdks.cloudfront.net **(delivery via AWS CloudFront)**
+
 <a href="https://profile-summary-for-github.com/user/parikshit223933">
-  <img align="left" height="300px" width="100%" src="https://github-readme-stats.vercel.app/api?theme=light&username=parikshit223933&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Parikshit's GitHub stats"/>
+  <img height="200px" width="100%" src="https://github-readme-stats.vercel.app/api?theme=light&username=parikshit223933&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Parikshit's GitHub stats"/>
   
 
 
